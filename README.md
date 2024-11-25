@@ -140,7 +140,7 @@ The job will check to see if there have been any DEX transactions in the past 2 
 
 This job will cache the entire balance of Source, Spending, AMM, Beta wallets at the beginning of the day in detail so that it can be easily tracked over a long period of time.
 
-- <https://qwerty.stg.blcr.xyz/bot/assets>
+- <https://abc.xyz/bot/assets>
 - ![Alt text](images/image_cacheBalancesAll_1.png)
 
 1. Setting job [cacheBalancesAll](src/jobs/agenda.js#L53) will set run time of job.
@@ -150,7 +150,7 @@ This job will cache the entire balance of Source, Spending, AMM, Beta wallets at
 
 This job will cache both SKIM and DEX's UAW KPIs recorded for each day into a [`ReportExecuteModel`](src/models/ReportExecute.js) table
 
-- <https://qwerty.stg.blcr.xyz/bot/botKpiServer>
+- <https://abc.xyz/bot/botKpiServer>
 - ![Alt text](images/image_cacheKpiServerToReport_1.png)
 
 1. Setting job [cacheKpiServerToReport](src/jobs/agenda.js#L54) will set run time of job.
@@ -167,7 +167,7 @@ This job will backup data from the last 5 days and `logs` data from the past lon
 
 This job will cache all balances of Source Wallets, all DEX bots and Pair addresses to easily track the inflow and outflow of the DEX execution process.
 
-- <https://qwerty.stg.blcr.xyz/bot/assets>
+- <https://abc.xyz/bot/assets>
 - ![Alt text](images/image_cacheBalancesDex_1.png)
 
 1. Setting job [cacheBalancesDex](src/dex/agendaDex.js#L56) will set run time of job.
