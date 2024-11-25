@@ -1,0 +1,33 @@
+7/2/2023, 3:13:43 PM: Excute batch [1] from [ 0 ]  to [ 5]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 0 ]  to [ 5] Done
+7/2/2023, 3:21:59 PM: Excute batch [1] from [ 5 ]  to [ 10]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 5 ]  to [ 10] Done
+7/2/2023, 3:29:54 PM: Excute batch [1] from [ 5 ]  to [ 10]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 5 ]  to [ 10] Done
+7/2/2023, 3:31:54 PM: Excute batch [1] from [ 10 ]  to [ 15]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 10 ]  to [ 15] Done
+7/2/2023, 3:35:52 PM: Excute batch [1] from [ 15 ]  to [ 20]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 15 ]  to [ 20] Done
+7/2/2023, 3:37:42 PM: Excute batch [1] from [ 20 ]  to [ 25]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 20 ]  to [ 25] Done
+7/2/2023, 4:18:31 PM: Excute batch [1] from [ 25 ]  to [ 30]: 
+ -> Transfer Batch Ether For Fee Gas: 0x39b95a8b679919299f400ab21ffa7b15ecff57dc14380f4aeef7fc909ba30429
+ -> Collected Point For Wallets Index From [ 25 ]  to [ 30] Done
+7/2/2023, 4:19:32 PM: Excute batch [1] from [ 30 ]  to [ 35]: 
+ -> Transfer Batch Ether For Fee Gas: 0x0072c03af35ffd9456277cf4c5d943d2a546d0d24bf92d72ce8523e3114f4a82
+ -> Collected Point For Wallets Index From [ 30 ]  to [ 35] Done
+7/2/2023, 4:19:47 PM: Excute batch [1] from [ 35 ]  to [ 40]: 
+ -> Transfer Batch Ether For Fee Gas: 0xa6b8707bb40b1c46c08c7a3c25ec14780a73d14b1b00a813839f23e6ff18d9ed
+ -> Collected Point For Wallets Index From [ 35 ]  to [ 40] Done
+7/2/2023, 4:19:59 PM: Excute batch [1] from [ 40 ]  to [ 45]: 
+ -> Transfer Batch Ether For Fee Gas: 0x1e31983d8195f36d9f7427678eecf4326d2b1c769490b33ffe61bbdbc3364794
+ -> Collected Point For Wallets Index From [ 40 ]  to [ 45] Done
+7/2/2023, 4:20:11 PM: Excute batch [1] from [ 45 ]  to [ 50]: 
+ -> Transfer Batch Ether For Fee Gas: 0x6405a7d90d0e209b1620bb6dcdff5254b2791bb6deb7a15d3f8527b3daa40549
+ -> Collected Point For Wallets Index From [ 45 ]  to [ 50] Done

@@ -1,0 +1,94 @@
+{
+  "56": {
+    "USDT": [
+      "0x55d398326f99059fF775485246999027B3197955"
+    ],
+    "WETH": [
+      "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+    ],
+    "LCR": [
+      "0xc1315db0aee1232e3f68396e62549cacda7016a8"
+    ],
+    "LCROperator": [
+      "0x5249526c116db930373516cc18baa686283aa066"
+    ],
+    "LCRFactory": [
+      "0x94c8ff0748d2589683051084c53cd0145f190d9e"
+    ],
+    "LCRRouter02": [
+      "0xfaacea4a6fd96cda914406c7eedc7582981e4c70"
+    ],
+    "POINT": [
+      "0xfb06dcff821bc50af4bce25695c6b79d58ca53a8"
+    ],
+    "MultiTransfer": [
+      "0x84aff599eeed5a67afe9e0cbd4ddfeec4691f6d7"
+    ],
+    "LCRPair": [
+      "0x10877eb0eDD0fe548fE376A9095A9c59D2B1Ac8D"
+    ]
+  },
+  "97": {
+    "USDT": [
+      "0x675bd82c198f2af3304a3a62e18d8b32f9ea7b48"
+    ],
+    "WETH": [
+      "0xae13d989dac2f0debff460ac112a837c89baa7cd"
+    ],
+    "LCR": [
+      "0x06168006ae648545d47c0d75484fc3f47db662be"
+    ],
+    "LCROperator": [
+      "0x998ac4bd8bf85dd6cdfd38b5a48a575ba4565b6e"
+    ],
+    "LCRFactory": [
+      "0x870ee769df1d2a88e86f1dfc28600df8ecac9919"
+    ],
+    "LCRRouter02": [
+      "0x46f35d075d5f30c75c77fbb3c24fcb4ca83bc13e"
+    ],
+    "MultiTransfer": [
+      "0xfb06dcff821bc50af4bce25695c6b79d58ca53a8"
+    ],
+    "LCRPair": [
+      "0x872b257c2354729889C19aB0ACe290aCf716e431"
+    ]
+  },
+  "31337": {
+    "WETH": [
+      "0xae13d989dac2f0debff460ac112a837c89baa7cd"
+    ]
+  },
+  "42220": {
+    "LCR": [
+      "0x9f896399af00292438bf4fbaCD657D408f53d6fc"
+    ],
+    "USDT": [
+      "0x617f3112bf5397D0467D315cC709EF968D9ba546"
+    ],
+    "WCELO": [
+      "0x2461227117110a2f56a2b0d7e6174a26642e692f"
+    ],
+    "NCELO": [ 
+      "0x471EcE3750Da237f93B8E339c536989b8978a438"
+    ],
+    "LCROperator": [
+      "0xd0fb3cbd7ee599c9802577826a9f7b9e890e84a6"
+    ],
+    "LCRFactory": [
+      "0x98d9f7afed073295853b4084b82942965931567d"
+    ],
+    "LCRRouter02": [
+      "0x083f427262dc6426e35d8bdae34e0b2d056d326a"
+    ],
+    "LCRPair": [
+      "0x692804cEc8DbCAD3d8924Aa513CafDAc6157FB0C"
+    ],
+    "POINT": [
+      "0xc074e3d28c771a93cc5223631f5f741b26cd57fb"
+    ],
+    "MultiTransfer": [
+      "0x7d4a8d32c8156aef3d3d4bd9b674cddfd8deeba1"
+    ]
+  }
+}

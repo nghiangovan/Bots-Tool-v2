@@ -1,0 +1,1 @@
+docker exec bot-tool-mongodb mongorestore --uri 'mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.9.1' --archive=backups/backup-1698984433.gzip --gzip

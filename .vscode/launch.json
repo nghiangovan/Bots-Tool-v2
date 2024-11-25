@@ -1,0 +1,52 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Nodemon Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": ["run-script", "debug-nodemon"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Node Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": ["run-script", "debug-node"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "TestNet Nodemon Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": ["run-script", "debug-nodemon-testnet"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "TestNet Node Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": ["run-script", "debug-node-testnet"]
+        }
+    ]
+}

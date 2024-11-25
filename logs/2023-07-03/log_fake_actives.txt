@@ -1,0 +1,30 @@
+7/3/2023, 12:00:01 AM: Excute batch [1] from [ 0 ]  to [ 5]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 0 ]  to [ 5] Done
+7/3/2023, 12:00:02 AM: Excute batch [1] from [ 5 ]  to [ 10]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 5 ]  to [ 10] Done
+7/3/2023, 12:00:03 AM: Excute batch [1] from [ 10 ]  to [ 15]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 10 ]  to [ 15] Done
+7/3/2023, 12:00:03 AM: Excute batch [1] from [ 15 ]  to [ 20]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 15 ]  to [ 20] Done
+7/3/2023, 12:00:04 AM: Excute batch [1] from [ 20 ]  to [ 25]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 20 ]  to [ 25] Done
+7/3/2023, 12:00:05 AM: Excute batch [1] from [ 25 ]  to [ 30]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 25 ]  to [ 30] Done
+7/3/2023, 12:00:06 AM: Excute batch [1] from [ 30 ]  to [ 35]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 30 ]  to [ 35] Done
+7/3/2023, 12:00:06 AM: Excute batch [1] from [ 35 ]  to [ 40]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 35 ]  to [ 40] Done
+7/3/2023, 12:00:07 AM: Excute batch [1] from [ 40 ]  to [ 45]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 40 ]  to [ 45] Done
+7/3/2023, 12:00:08 AM: Excute batch [1] from [ 45 ]  to [ 50]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Collected Point For Wallets Index From [ 45 ]  to [ 50] Done

@@ -1,0 +1,9 @@
+7/6/2023, 11:12:35 AM: Excute batch [1688601600000] from [ 0 ]  to [ 1]: 
+ -> Transfer Batch Ether For Fee Gas: 0x1e29b29c4d6f2152148225065827a6350ca6a16106ef702fd00635aef1e6949b
+ -> Scheduled For Wallets Index From [ 0 ]  to [ 1] Done
+7/6/2023, 4:35:35 AM: Excute batch [1688601600000] from [ 1 ]  to [ 1]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Scheduled For Wallets Index From [ 1 ]  to [ 1] Done
+7/6/2023, 5:00:01 PM: Excute batch [1688601600000] from [ 1 ]  to [ 1]: 
+ -> Transfer Batch Ether For Fee Gas: undefined
+ -> Scheduled For Wallets Index From [ 1 ]  to [ 1] Done

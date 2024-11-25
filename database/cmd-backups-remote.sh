@@ -1,0 +1,1 @@
+mongodump --host="127.0.0.1:9000" --db=bots_tool_data --gzip --archive=database/backups/backup-$(date '+%Y-%m-%d_%H-%M-%S').gzip

@@ -1,0 +1,60 @@
+version: "3.8"
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: "bot-tool-mongodb"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    volumes:
+      - ~/mongors/bot_tool_mongodb:/data/db
+      - ./rs-init.sh:/scripts/rs-init.sh
+      - ./rs-backups.sh/:/scripts/rs-backups.sh
+      - ../database/backups/:/backups/
+    networks:
+      - bots_tool
+    ports:
+      - 27017:27017
+    links:
+      - mongodb2
+      - mongodb3
+    restart: always
+    entrypoint: [ "/usr/bin/mongod", "--bind_ip_all", "--replSet", "dbrs" ]
+
+  mongodb2:
+    container_name: "bot-tool-mongodb-2"
+    image: mongo:latest
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    volumes:
+      - ~/mongors/bot_tool_mongodb_2:/data/db
+    networks:
+      - bots_tool
+    ports:
+      - 27018:27017
+    restart: always
+    entrypoint: [ "/usr/bin/mongod", "--bind_ip_all", "--replSet", "dbrs" ]
+
+  mongodb3:
+    container_name: "bot-tool-mongodb-3"
+    image: mongo:latest
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    volumes:
+      - ~/mongors/bot_tool_mongodb_3:/data/db
+    networks:
+      - bots_tool
+    ports:
+      - 27019:27017
+    restart: always
+    entrypoint: [ "/usr/bin/mongod", "--bind_ip_all", "--replSet", "dbrs" ]
+
+networks:
+  bots_tool:
+    driver: bridge
+
+volumes:
+  bot_tool_mongodb:
+    driver: local

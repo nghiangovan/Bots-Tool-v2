@@ -1,0 +1,12 @@
+node_modules
+yarn.lock
+# Keep environment variables out of version control
+.env.development
+.env.production
+.env.testnet.development
+data/current_index_holder.json
+data/current_index_big_holder.json
+data/current_index_fill_empty_holder.json
+
+# data backup
+database/backups/*
